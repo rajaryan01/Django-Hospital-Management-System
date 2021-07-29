@@ -11,7 +11,7 @@
 - Backend
     - Django framework
 - Database
-    - SQLite
+    - SQLite 
 
 ### Local Setup
 - Clone repository.
